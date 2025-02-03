@@ -1,2 +1,2 @@
-# Data_Cleaning
-Project on data cleaning
+select * from layoffs
+
